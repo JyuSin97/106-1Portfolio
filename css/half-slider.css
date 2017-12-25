@@ -28,3 +28,17 @@ section {
   background-color: #000000;
   color: #F0F8FF; 
 }
+
+.container {
+  font-family: '微軟正黑體';
+}
+
+.Blank {
+  background-color: #000000;
+  padding-top:100px; 
+}
+
+.blank {
+  background-color: #000000;
+  padding-top:50px; 
+}
